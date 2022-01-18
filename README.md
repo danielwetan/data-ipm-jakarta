@@ -22,7 +22,8 @@ pip install -r requirements.txt
 
 ## Project files
 - `data-ipm-jakarta.csv`: Indeks Pembangunan Manusia (IPM) DKI Jakarta Tahun 2014 in the CSV format
-- `folium-101.ipynb`: Jupyter notebook containing the project code
+- `data-kabupaten-jakarta.json`: Map region of DKI Jakarta in JSON format
+- `notebook.ipynb`: Jupyter notebook containing the project code
 - `output_map.html`: Saved map in the HTML format
 
 ## Author
